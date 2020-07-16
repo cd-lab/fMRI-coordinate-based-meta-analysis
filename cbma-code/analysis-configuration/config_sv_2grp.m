@@ -32,6 +32,7 @@ for i = 1:n
     cbma_2grp(i).outputDir = outputDir;
     cbma_2grp(i).clusterFormingPval = 0.005;
     cbma_2grp(i).nPerms = 200;  
+    cbma_2grp(i).outTag = sprintf('%s_%d', cbma_2grp(i).outTag, cbma_2grp(i).nPerms);
     cbma_2grp(i).setupOnly = true; % if true, set up the randomise script but don't run it from matlab
     %#ok<*AGROW>
 end

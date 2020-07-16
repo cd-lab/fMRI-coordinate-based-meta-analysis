@@ -52,6 +52,7 @@ inFile = cell(1, 2);
 n = cell(1, 2);
 for i = 1:2
     inFile{i} = fullfile(inputDir, inputName{i}, [inputName{i}, '_allIMs.nii.gz']);
+    assert(exist(inFile{i}, 'file')>0, 'Single-group meta-analysis outputs not found: %s', inFile{i});
     [~, n{i}] = runCmd(['fslnvols ', inFile{i}]);
     n{i} = str2double(n{i});
     fprintf('input %d:\n', i);
