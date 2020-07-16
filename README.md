@@ -1,5 +1,5 @@
-# fMRI-coordinate-based-meta-analysis
-Code used for running fMRI coordinate-based meta-analyses in Bartra, McGuire, & Kable, 2013, NeuroImage, http://doi.org/10.1016/j.neuroimage.2013.02.063
+# fMRI coordinate-based meta-analysis
+MATLAB code used for running fMRI coordinate-based meta-analyses in Bartra, McGuire, & Kable, 2013, NeuroImage, http://doi.org/10.1016/j.neuroimage.2013.02.063
 
 Caveat emptor. Use caution and carefully check results and intermediate outputs, especially if
 using settings that differ from the original paper. 
@@ -17,6 +17,6 @@ Instructions for a 2-group meta-analysis contrast, to test if two sets of foci d
 2. Set MATLAB's working directory to: cbma-code/analysis-configuration 
 3. Edit and run the file config_sv_2grp.m
 
-Example configuration and coordinate files are included for testing, which reproduce maps in Fig. 3A-B (1-group meta-analyses), and Fig. 3D (2-group meta-analysis contrast). 
+Example configuration and coordinate files are included for testing, which reproduce maps in Fig. 3A-B (1-group meta-analyses), and Fig. 3D (a 2-group meta-analysis contrast). 
 
 
