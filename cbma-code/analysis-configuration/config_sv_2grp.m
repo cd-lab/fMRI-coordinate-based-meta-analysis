@@ -10,6 +10,7 @@ addpath(genpath(cbmaDir));
 
 % identify top-level output directory
 outputDir = 'output_2grp';
+if ~exist(outputDir,'dir'), mkdir(outputDir), end
 
 % directory where inputs will be located (the outputs of 1-group
 % meta-analyses)

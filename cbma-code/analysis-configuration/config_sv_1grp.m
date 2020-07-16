@@ -13,7 +13,7 @@ coordfileDir = 'coord_files';
 
 % identify top-level output directory
 outputDir = 'output_1grp';
-
+if ~exist(outputDir,'dir'), mkdir(outputDir), end
 
 
 %%% set parameters for individual single-group meta-analyses %%%
