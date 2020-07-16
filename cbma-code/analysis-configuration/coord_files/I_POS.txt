@@ -1,0 +1,3742 @@
+// Reference=MNI
+// Bray, S.,2010. probabilistic monetary reward (+$0.25) vs. punishment (-$0.25) in a binary reversal-learning task [AND] reward imagery vs. imagery of a visual motion stimulus
+// Subjects=44
+9	24	-9
+3	39	-18
+-3	45	-3
+30	-39	66
+-45	-69	30
+6	-51	15
+-63	-12	-18
+-27	24	54
+-15	60	9
+18	-33	45
+-54	-33	27
+-45	30	3
+60	-27	15
+48	-27	24
+-9	12	-12
+-9	-57	30
+-42	-60	27
+-36	-24	21
+0	57	15
+-60	-9	-15
+
+// Kim, H.,2010. Parametric effect of taste pleasantness during anticipation [AND] Parametric effect of money amount during anticipation [AND] Parametric effect of taste pleasantness during receipt [AND] Parametric effect of money amount during receipt
+// Subjects=18
+-6	27	-15
+-24	-27	0
+-6	36	-12
+-27	21	60
+-51	-12	-18
+3	45	-12
+-12	-30	-18
+30	-30	-18
+-6	-54	18
+-6	36	-12
+-21	12	60
+0	12	-6
+
+// Philiastides, M.,2010. parametric effect of evidence strength (i.e., probability that correct answer will be chosen)
+// Subjects=22
+14	54	30
+-16	56	28
+4	56	12
+-6	62	12
+8	52	2
+-10	52	-2
+10	40	-2
+-6	42	0
+10	-20	42
+-4	-14	42
+-12	-44	34
+50	-30	24
+-58	-26	20
+14	-84	30
+-10	-84	28
+56	-22	-6
+-62	-24	-6
+50	8	-4
+-46	6	-4
+32	-10	2
+-28	-12	2
+26	-6	-16
+-24	-10	-18
+
+// Plassmann, H.,2010. Parametric effect of bid, for free-choice trials [AND] Parametric effect of bid, greater on free-choice than forced trials. [AND] Parametric effect of bid, for free-choice trials. [AND] Parametric effect of bid, greater on free-choice than forced trials.
+// Subjects=19
+-21	20	52
+6	56	28
+6	19	22
+-46	35	14
+-33	11	-20
+-2	32	-14
+42	-10	4
+45	-1	-8
+39	41	22
+3	-49	16
+-51	32	16
+3	56	25
+51	-13	16
+42	8	-29
+-3	-10	-2
+51	-28	-26
+33	-25	-17
+12	-87	-3
+9	45	0
+4	30	-13
+18	27	48
+-9	-81	0
+-15	36	48
+30	-27	-24
+61	-25	-26
+
+// Sescousse, G.,2010. Exclusive response to money: money > pictures AND money > control AND NOT pictures > control [AND] Exclusive response to pictures: pictures > money AND pictures > control AND NOT money > control [AND] Conjunction of responses to both reward types: money > control AND pictures > control
+// Subjects=18
+-30	51	0
+30	54	-3
+36	12	54
+-51	-48	57
+45	-48	45
+3	-66	48
+-30	33	-15
+30	33	-15
+-6	45	-15
+-21	-6	-27
+24	0	-27
+-3	57	30
+54	36	9
+-39	18	-24
+48	-6	54
+-18	-51	-9
+21	-54	-6
+54	-66	6
+-42	-42	-24
+42	-45	-21
+-12	-84	33
+12	-84	24
+0	-84	12
+-21	-72	-3
+24	-60	12
+-12	9	-9
+9	6	-9
+-3	-24	-24
+6	-24	-9
+-27	21	-6
+33	24	3
+-6	27	39
+9	18	39
+3	6	27
+-3	-18	27
+3	-3	30
+-27	-6	48
+30	-6	54
+-9	15	45
+-27	-12	57
+-9	-18	9
+-15	-66	54
+39	-81	12
+-33	-54	-33
+33	-69	-27
+
+// Albrecht, K.,2010. today trials > delay trials SELF [AND] Interaction: today trials for SELF greater than trials with only later options or with decisions for another person.
+// Subjects=28
+9	40	13
+-4	37	16
+15	55	1
+-17	-55	34
+11	11	0
+-4	11	1
+15	55	1
+-14	48	-5
+6	-15	51
+-46	12	29
+22	31	27
+-49	39	10
+48	-17	54
+5	-3	3
+-36	-65	29
+-52	-49	21
+-36	-74	-4
+44	-60	-3
+2	40	19
+-4	41	19
+12	58	1
+-1	59	1
+-4	16	-2
+6	-22	38
+-33	51	-5
+-46	25	-6
+-14	20	45
+-52	18	25
+25	-37	56
+35	-35	39
+22	31	27
+-55	-20	28
+-29	-53	51
+-39	-51	-3
+-52	-33	-11
+
+// Cloutier, J.,2008. Linear parametric effect of rated attractiveness
+// Subjects=48
+39	-21	48
+-24	-53	-20
+9	-7	45
+-18	-63	-40
+42	-20	15
+3	33	9
+-9	40	-15
+15	-23	4
+-9	8	-8
+-6	33	23
+18	55	-5
+-50	-38	-11
+-18	50	0
+-15	-87	15
+-30	55	0
+-6	-24	12
+-12	58	0
+9	46	-12
+9	14	-6
+
+// Erk, S.,2002. Sports cars > small cars
+// Subjects=12
+-50	-82	3
+33	-57	-16
+-2	35	-27
+-2	50	5
+49	20	27
+-47	7	36
+11	4	-11
+-2	59	4
+-44	-47	-6
+
+// Gottfried, J.,2003. Pre-devaluation > post-devaluation odor response
+// Subjects=13
+-15	-6	-18
+6	12	42
+39	18	-6
+-33	42	-12
+24	33	-12
+-9	15	0
+-15	12	-3
+
+// Gräbenhorst, F.,2009. parametric effect of rated fatty texture [AND] parametric effect of rated flavor pleasantness
+// Subjects=14
+-6	52	46
+38	56	26
+28	-14	0
+28	6	22
+-34	-20	-10
+-8	20	-16
+-36	50	-4
+46	42	24
+40	56	10
+56	-8	18
+14	-14	-4
+42	10	46
+
+// Knutson, B.,2001. Anticipation phase for rewarded > nonrewarded trials. [AND] eutral versus Punishment Anticipation.
+// Subjects=9
+36	19	-8
+13	13	-5
+-8	14	-5
+13	11	-2
+-9	7	0
+-20	2	-8
+4	0	4
+18	-7	-12
+6	46	5
+5	17	42
+3	4	49
+-41	-11	54
+4	-62	-5
+18	20	1
+9	48	-23
+7	41	-18
+-2	56	0
+5	-51	19
+-3	-56	55
+
+// Knutson, B.,2003. Anticipation of reward (potential gain) vs. anticipation of non-reward (no outcome) [AND] Outcome gain vs. no outcome
+// Subjects=12
+40	16	-5
+13	14	-5
+-9	12	-5
+12	11	-1
+-7	3	4
+-2	-11	11
+4	33	32
+1	1	50
+-28	-54	48
+1	-75	-27
+2	57	-16
+3	71	-2
+7	-51	25
+6	-60	60
+
+// Talmi, D.,2009. Reward prediction error
+// Subjects=18
+0	52	-4
+-4	44	-10
+0	40	10
+24	-18	-18
+26	-12	-10
+58	-2	4
+64	-22	14
+46	-4	4
+-12	-2	-18
+-12	6	-12
+-8	14	-8
+-34	-6	12
+-32	-16	6
+-6	-28	44
+-6	-12	50
+-12	-36	52
+-20	32	48
+-30	32	40
+-26	-34	-20
+-16	-20	-16
+-20	-38	-32
+-62	2	2
+-64	-12	8
+
+// Delgado, M.,2000. Reward valence x time interaction, attributable to prolonged response to gains vs losses
+// Subjects=9
+-12	18	2
+13	19	2
+-14	0	-13
+-21	-14	-10
+
+// Delgado, M.,2003. 
+// Subjects=18
+1	-98	25
+7	-23	11
+-7	13	3
+17	21	2
+5	64	-12
+-3	13	-11
+17	12	-11
+
+// Delgado, M.,2004. Valid vs. uninformative cues (validity x time interaction)
+// Subjects=17
+34	-66	49
+-9	47	18
+
+// Delgado, M.,2005. Receiving $1.50 > receiving $0.
+// Subjects=12
+-24	1	62
+15	10	-4
+24	-78	51
+-44	39	-1
+17	23	2
+25	19	-4
+15	10	-4
+18	1	-12
+60	-67	-1
+32	29	-19
+-44	-36	-18
+
+// Elliot, R.,2004. Main effect of reward
+// Subjects=12
+4	39	26
+1	55	-15
+11	65	31
+49	42	25
+59	26	-17
+-47	54	-18
+-60	20	-8
+30	0	-28
+36	5	-5
+4	-17	7
+
+// Galvan, A.,2005. large reward cue > small reward cue
+// Subjects=12
+10	7	-7
+-8	7	-10
+9	-20	8
+-48	41	8
+-5	23	22
+-24	-59	6
+
+// Izuma, K.,2008. High Monetary Reward Vs. No Monetary Reward [AND] interaction of (self - other) * (high - low positive social feedback)
+// Subjects=19
+50	38	22
+-20	36	-18
+22	32	-24
+10	30	36
+-28	18	2
+24	12	4
+12	10	-4
+-14	10	-4
+10	10	2
+-12	8	2
+-24	4	12
+16	-2	-6
+-20	-6	18
+22	-14	18
+-14	-14	14
+10	-20	16
+4	-26	-14
+30	-60	-32
+-32	-62	-34
+50	-34	44
+-42	-46	40
+14	-66	4
+-14	-68	42
+-14	52	8
+-36	50	10
+-6	40	18
+-14	24	54
+-8	24	32
+-52	20	14
+-22	20	-2
+22	16	-4
+-4	-22	30
+-44	-32	-8
+-62	-18	-10
+16	-48	-38
+-6	-58	-12
+
+// Jacobson, A.,2010. Contrast during pleasantness ratings for sucrose solution in younger adults compared to distilled water
+// Subjects=19
+-42	7	13
+-58	4	23
+-60	15	13
+-64	18	19
+-59	16	9
+-37	7	6
+-18	62	-38
+34	-20	6
+35	-22	7
+37	70	14
+-3	-41	1
+3	-40	3
+17	43	-39
+12	38	-6
+8	42	-11
+36	10	11
+35	11	8
+
+// Kirsch, P.,2003. Cue predicting money > cue predicting verbal feedback only
+// Subjects=27
+1	-3	6
+8	-13	4
+-9	-19	-10
+14	9	-12
+-18	9	-17
+18	9	-8
+-25	18	-18
+-2	7	39
+5	0	39
+36	23	-4
+17	-66	-18
+55	7	44
+
+// Nieuwenhuis, S.,2005. Highest reward versus highest loss (+60c vs. -40c)
+// Subjects=14
+21	9	-4
+-7	6	-1
+-14	2	-11
+-50	-50	51
+-1	-33	31
+1	-28	51
+-5	13	54
+-19	10	61
+12	-60	-10
+-40	-56	-39
+
+// O'Doherty, J.,2002. Anticipation of Glucose versus Anticipation of Salt [AND] Anticipation of Glucose versus Anticipation of Neutral [AND] Receipt of Glucose versus Receipt of Neutral
+// Subjects=8
+8	-24	-18
+-8	-20	-18
+18	0	23
+-16	-10	-14
+-12	-10	-16
+-16	2	-16
+28	38	-16
+-50	-6	-4
+-12	-20	-22
+32	46	-6
+54	0	18
+42	46	-16
+
+// Plassmann, H.,2010. Cheap wine labeled with a high vs. low price [AND] Expensive wine at high vs. low price [AND] Wine versus neutral [AND] Activity modulated by liking ratings
+// Subjects=20
+-12	-90	-6
+30	30	24
+-6	0	39
+-12	36	-9
+15	-93	-3
+-42	-24	-6
+-18	42	6
+-24	30	-4
+-4	-10	-9
+9	-60	-42
+9	-60	15
+4	27	-4
+21	42	54
+-2	27	-2
+3	-40	-33
+3	-27	-12
+9	-42	-1
+-6	-49	16
+63	-9	-21
+-30	-24	-6
+-2	48	-20
+3	48	-19
+21	0	-18
+6	-57	24
+39	27	-21
+9	39	-9
+57	21	33
+9	54	-3
+-50	2	-27
+15	30	57
+-54	3	-27
+3	33	-21
+9	51	-6
+3	-24	-21
+33	-18	-21
+9	-48	12
+-33	-93	-3
+-32	24	3
+32	24	3
+12	24	30
+5	24	48
+-3	24	47
+21	45	36
+-27	-51	-33
+24	45	15
+-6	12	6
+10	15	10
+-3	48	-18
+1	-39	-33
+
+// Rogers, R.,2004. Choice of gambles involving large gain vs. small gain. [AND] Wins vs losses
+// Subjects=14
+-2	42	8
+0	44	36
+2	44	12
+2	46	16
+2	46	20
+6	46	20
+36	24	-12
+40	22	-12
+32	22	-14
+46	22	-6
+50	22	-4
+36	28	-2
+-10	16	-18
+-12	10	-16
+-14	14	-16
+20	12	-18
+22	20	-10
+12	20	-10
+-22	24	54
+-22	30	50
+-18	26	50
+-28	32	44
+-26	30	44
+-26	26	38
+
+// Tobler, P.,2007. Reward magnitude, probability, or expected value
+// Subjects=16
+-12	2	6
+18	-6	2
+12	36	36
+50	16	6
+-10	4	-4
+18	-18	-12
+-20	-16	-14
+18	18	-14
+-2	48	-12
+8	58	10
+-4	64	8
+52	26	-2
+28	42	26
+-34	48	10
+-8	12	6
+16	-6	4
+-30	34	0
+14	46	18
+52	28	8
+
+// Ernst, M.,2005. Win $4.00 > No-win $4.00 [AND] Win $4.00 > Win $0.50 [AND] No-Win $0.50 > No-Win $4.00
+// Subjects=30
+10	-66	12
+8	-86	4
+6	-46	6
+28	-62	-20
+-26	-4	-14
+-46	-28	60
+-40	34	10
+4	-6	8
+20	-6	-16
+-38	-74	-22
+24	-62	-20
+-44	-48	58
+-50	-30	56
+10	-90	2
+34	-12	-16
+40	-26	-14
+32	-20	-22
+
+// Rolls, E.,2003. Pleasant - Neutral [AND] Pleasant - Unpleasant
+// Subjects=11
+0	54	-12
+2	20	32
+45	15	-9
+2	52	-18
+
+// Ballard, K.,2009. positive correlation with monetary amount OR negative correlation with delay
+// Subjects=16
+9	5	-4
+-11	41	-8
+-1	-51	14
+-19	55	8
+-47	-57	26
+31	-73	30
+
+// Beaver, J.,2006. Group level activations for pictures rated as appetizing versus bland [AND] Group level activations for pictures rated as appetizing versus disgusting
+// Subjects=12
+8	10	-12
+-8	16	-12
+52	-12	14
+-24	-4	62
+-34	-32	28
+36	-30	30
+24	-26	-20
+14	-40	4
+-58	-40	6
+42	-30	-24
+-32	22	36
+16	-84	26
+46	-70	40
+-10	-20	32
+14	-42	30
+-10	-46	-16
+-36	42	-10
+-42	-4	44
+40	-30	-26
+-52	-40	10
+58	-34	16
+-42	-66	22
+66	-46	-12
+-30	26	40
+
+// Berns, G.,2001. Preferred versus non preferred (mixing predictable and unpredictable)
+// Subjects=25
+-60	-12	16
+
+// Zink, C.,2004. Task with monetary rewards (active vs. passive condition) VS equivalent task with no monetary rewards (active vs. passive condition)
+// Subjects=16
+12	-3	12
+-12	3	12
+9	18	6
+-33	-42	66
+15	-87	-21
+33	-84	-21
+63	6	0
+45	33	6
+48	-51	-21
+
+// Bjork, J.,2007. Anticipation: No Response, Probability 1.0  vs. Probability 0.5 [AND] Anticipation: Response, Probability 1.0  vs. Probability 0.5 [AND] Anticipation: Response, Probability 1.0  vs. Probability 0 [AND] Anticipation: Response, Probability 0.5  vs. Probability 0 [AND] Reward  Notification: No Response, Probability 1.0 Wins  vs. Probability 0 Non-Wins [AND] Reward  Notification: Response, Probability 1.0 Wins  vs. Probability 0 Non-Wins [AND] Reward  Notification: Win vs. Non-Wins in all Probability 0.5 trials
+// Subjects=20
+-2	49	-16
+-1	54	-3
+53	-18	7
+-26	-6	61
+-30	-27	52
+-7	-6	50
+34	-30	52
+50	-15	40
+26	-9	67
+-55	39	20
+-31	39	25
+-35	-3	2
+53	6	0
+-11	9	-9
+33	6	-5
+29	-19	-3
+-7	-19	3
+1	-63	-9
+-35	-19	51
+-10	12	27
+29	-47	43
+-47	-43	44
+17	10	48
+-31	10	7
+17	13	-6
+-15	9	-6
+-3	-24	-7
+5	-59	-15
+6	54	-3
+-12	15	-9
+12	13	-6
+-62	-37	-1
+66	-29	-5
+-42	-53	53
+48	-53	49
+6	-29	-96
+2	-4	35
+-28	-19	70
+32	-20	70
+13	-50	-20
+3	32	13
+-3	-36	37
+45	-63	44
+5	31	10
+
+// Blair, K.,2006. 2 rewarding choices versus 2 punishment choices [AND] 2 rewarding choices versus 2 punishment choices
+// Subjects=21
+1	55	-9
+29	-6	-19
+-63	-28	18
+-56	-76	20
+68	-64	5
+-29	-62	46
+7	52	-5
+34	-4	-16
+33	-3	-20
+-27	-40	-4
+72	-31	18
+-47	-80	28
+21	-66	43
+
+// Camara, E.,2009. Gain versus Loss [AND] Unexpected Gain versus Unexpected Loss
+// Subjects=17
+-16	4	-12
+16	8	-12
+-16	4	-4
+16	8	-16
+
+// Davey, C.,2010. Positive feedback faces versus Control faces (no feedback)
+// Subjects=19
+0	60	-4
+-4	68	10
+8	36	4
+2	-10	22
+0	-32	28
+-6	-46	14
+2	-66	20
+-24	42	40
+-24	28	48
+-22	44	26
+-62	-10	-22
+-42	-60	44
+-22	-78	-20
+-18	-100	0
+22	60	26
+38	14	-18
+64	-12	-24
+16	-96	-2
+4	6	-4
+-24	-10	-24
+30	-8	-22
+0	-20	-18
+26	-48	-24
+
+// Elliott, R.,2003. Activity increasing linearly with reward value
+// Subjects=12
+15	15	57
+
+// Haruno, M.,2004. Activations correlated with short-term reward (+5 yen vs. -5 yen) [AND] Activations correlated with accumulated reward
+// Subjects=8
+-38	-79	30
+34	-76	35
+-16	-3	-18
+-27	-64	2
+26	-59	2
+-22	-64	52
+26	-64	47
+-35	5	48
+23	0	55
+-3	-3	47
+-37	32	12
+23	46	13
+23	43	-1
+52	-53	8
+-19	-76	22
+15	-70	23
+
+// Knutson, B.,2001. Reward versus Neutral Anticipation [AND] Large versus Small Reward Anticipation
+// Subjects=8
+14	21	-7
+-5	8	3
+11	4	8
+20	10	2
+3	-2	8
+-14	-2	-14
+3	30	35
+5	20	40
+4	3	49
+0	-32	28
+14	19	-8
+-6	2	9
+10	5	7
+-17	16	-10
+26	1	2
+5	0	6
+2	26	27
+2	23	27
+8	39	19
+1	4	62
+3	-23	33
+1	-52	-11
+
+// Wrase, J.,2007. anticipatory cue: Gain versus Neutral [AND] outcome: Gain vs. non-gain
+// Subjects=14
+-15	6	0
+18	6	0
+27	-36	9
+18	15	12
+-21	42	9
+24	42	5
+39	21	9
+-45	21	15
+33	27	-6
+-21	36	-3
+-51	9	24
+-30	18	12
+30	21	9
+-57	3	15
+33	-69	27
+-21	21	12
+9	-30	6
+9	-91	15
+-15	18	18
+18	15	18
+-12	8	-5
+6	42	0
+39	54	0
+-33	51	0
+-39	-6	18
+-33	-66	27
+-48	-48	27
+-30	-87	24
+0	-12	12
+
+// Adcock, R.,2006. Any reward versus $0 [AND] $5 reward versus $0 [AND] $5 reward versus $1
+// Subjects=12
+6	-14	-12
+-3	-15	-13
+-12	5	-4
+12	9	-3
+10	1	1
+-5	1	3
+3	-22	10
+-1	-22	10
+19	2	-13
+-13	2	-10
+-1	33	20
+31	34	26
+33	21	-13
+-34	13	-10
+-33	23	7
+20	-68	14
+-21	-67	-39
+6	-14	-12
+-3	-15	-13
+12	4	-11
+-11	5	-4
+40	-44	-1
+9	11	-1
+9	0	3
+-5	2	3
+3	-18	13
+-1	-20	12
+19	1	-13
+-13	1	-11
+-45	20	-5
+-1	39	18
+33	20	-13
+-35	12	-9
+-21	-67	-39
+-3	-13	-12
+12	5	-10
+36	-35	-5
+-27	-22	-8
+-4	16	-4
+3	-14	10
+49	21	-1
+-47	17	-5
+0	40	17
+7	66	-1
+-36	10	-9
+20	-65	13
+
+// Knutson, B.,2008. erotic couples vs. scary animals (results combine BOTH the cued anticipation period and the viewing period) [AND] Gain versus Loss outcome for monetary gambles
+// Subjects=15
+-8	40	-20
+13	25	-19
+-27	20	-18
+-3	17	-4
+-12	12	-9
+8	9	-12
+21	9	-12
+37	5	42
+54	9	37
+-58	-58	10
+-51	-55	6
+-3	-57	19
+42	-60	22
+-43	-85	21
+1	67	-4
+-15	14	4
+20	9	-8
+-18	9	-8
+49	12	24
+-59	1	1
+1	-54	17
+25	-79	-4
+
+// Liu, X.,2007. Win versus Loss (when betting) [AND] Being right versus being wrong (betting and winning, not betting and avoid loosing versus the inverse)
+// Subjects=15
+34	30	26
+-20	34	-16
+-24	32	36
+-16	6	52
+18	16	4
+-20	8	-4
+-36	-18	8
+36	-18	12
+-20	-54	22
+58	-4	0
+40	34	24
+-34	56	-12
+42	56	-8
+22	42	-14
+-18	44	-18
+24	56	-2
+14	18	-2
+-20	-4	22
+-50	-64	-30
+8	-88	-20
+-2	-78	56
+-42	-56	54
+60	-48	-24
+
+// Ramnani, N.,2003. Response to cue indicating task would be rewarded > nonrewarded
+// Subjects=8
+-20	58	24
+-22	18	48
+-40	20	38
+32	18	-20
+-2	10	52
+-2	-4	56
+6	0	58
+28	-54	70
+-40	-74	40
+-28	16	54
+-64	-28	16
+-60	-50	28
+-60	-8	4
+-4	-38	38
+22	-26	-8
+-16	-36	-2
+-16	-12	-24
+16	2	4
+16	-72	-14
+-18	-102	-12
+12	-104	6
+
+// Ramnani, N.,2004. Reward > nonreward, if *nonreward* was predicted
+// Subjects=6
+16	62	-10
+12	58	16
+8	34	-24
+44	20	22
+18	-30	-14
+-48	-56	-42
+
+// Remijnse, P.,2005. Correct Response (rewarded 80% of the time) versus Baseline (baseline = choice without feedback) [AND] Reward (vs its baseline) > Punishment (vs its baseline)
+// Subjects=27
+-15	36	-15
+-30	51	-15
+-39	39	15
+-45	3	27
+-30	-60	48
+-51	-39	51
+-27	-93	-12
+30	-96	-12
+-6	15	3
+6	18	6
+12	6	-9
+-6	12	-6
+
+// Samanez-Larkin, G.,2007. Gain vs Non-gain anticipation (Younger Adults)
+// Subjects=12
+-13	42	-10
+28	28	-4
+-43	14	-7
+53	15	-10
+-13	13	-1
+9	14	8
+26	3	2
+-17	0	-2
+11	-5	-15
+11	-10	1
+7	-9	12
+-36	-7	39
+-8	-10	33
+15	-17	15
+-17	-20	18
+-4	-24	-11
+4	-42	4
+-2	-64	-5
+26	-90	8
+
+// Ullsperger, M.,2003. Positive versus Negative (expt 1: Informative Feedback on 100% of trials) [AND] Positive versus Negative (expt 2: Non-Informative Feedback on 26.5% of trials)
+// Subjects=16
+-17	8	-10
+-22	1	12
+27	-18	6
+-13	7	-8
+-6	17	-5
+10	9	-8
+-29	-50	46
+-14	-11	23
+
+// Xue, G.,2009. Parametric effect of experienced reward [AND] Win versus Loss Domains across both risky and safe choices
+// Subjects=13
+0	58	-6
+-34	56	-14
+-2	42	8
+0	-36	26
+-20	12	-12
+-16	6	-18
+-52	-64	20
+-30	-78	44
+-26	32	48
+-18	28	58
+8	18	-4
+-2	40	8
+0	48	-14
+0	58	-4
+-52	42	-4
+-22	32	44
+-16	54	34
+-14	20	54
+-20	12	-12
+-10	16	-6
+8	18	-4
+20	12	-10
+-44	-78	34
+-46	-66	24
+-18	-54	68
+-46	-66	24
+-18	-54	68
+-46	-56	58
+-76	32	44
+32	-62	36
+-6	-46	30
+6	-46	68
+
+// Rilling, J.,2004. Both cooperate versus you cooperate and the partner defects (Cooperate, Cooperate > Cooperate, Defect)
+// Subjects=19
+30	63	6
+31	61	-10
+9	42	-13
+12	19	-10
+-27	12	43
+-28	-9	5
+-9	-5	53
+-27	-23	56
+-54	-33	-9
+46	-52	18
+-19	-71	14
+
+// Taylor, S.,2004. High versus low reward stakes (at the start of a trial)
+// Subjects=12
+34	-76	32
+36	-84	40
+14	-68	68
+6	-76	56
+-10	-76	42
+
+// Wittman, B.,2005. Reward Anticipation versus neutral cues
+// Subjects=16
+49	11	-9
+-2	6	-13
+1	8	51
+-34	-2	68
+50	-4	48
+50	-5	64
+8	-13	28
+-40	-22	62
+-37	-42	70
+-52	-27	43
+-55	-35	32
+74	-23	23
+21	-41	60
+11	-58	63
+-52	-57	-19
+-15	12	-14
+17	4	-13
+11	11	4
+-18	-3	-11
+7	-22	-16
+-15	-21	18
+4	-70	-28
+
+// Akitsuki, Y.,2003. Win versus Loss (1 time, no consecutive wins or losses) [AND] Any win vs. loss
+// Subjects=36
+27	1	-13
+-27	-2	-17
+18	-72	-12
+-16	-90	1
+44	-82	-11
+-44	-66	-11
+-9	-77	-20
+-35	-69	-34
+29	3	-16
+-25	4	-18
+42	-81	-29
+-29	-83	-19
+-22	-97	-2
+
+// Kable, J.,2007. Subjective value of the delayed reward (using FIR-Type Model) [AND] Subjective value of the delayed reward (using a model that assumes a hemodynamic response function)
+// Subjects=10
+-2	42	7
+-2	-41	41
+-50	-69	17
+-12	6	-3
+-21	-24	13
+75	-41	0
+-47	4	-30
+-40	14	16
+-50	-69	17
+-5	-35	40
+-5	38	34
+-12	0	-6
+1	42	0
+-47	-28	50
+-34	-14	22
+-15	-4	-16
+56	7	43
+72	-41	-4
+23	20	-2
+-47	1	-29
+-44	-2	14
+46	22	-19
+
+// Zalla, T.,2000. Blocks w/ only win or neutral trials: Blocks w/ 60-80% win VS. blocks with 20-40% wins. [AND] Blocks w/ only neutral or loss trials: Blocks w/ 20-40% losses VS. blocks with 60-80% losses.
+// Subjects=10
+-28	-22	-15
+-63	18	9
+52	19	-20
+-38	-4	-23
+-60	20	-2
+-28	-22	-15
+-63	18	9
+52	19	-20
+-28	-16	-12
+
+// Pochon, J.,2002. n-back blocks with high reward versus no reward
+// Subjects=6
+5	-77	22
+1	61	-9
+-15	68	0
+-57	-61	-18
+18	-63	31
+62	-44	-14
+17	6	22
+-18	13	22
+36	-29	-22
+-2	29	30
+-66	-8	11
+-41	59	5
+24	-65	45
+52	-54	-24
+-57	-64	-15
+27	52	-9
+-50	47	9
+-63	16	25
+-2	33	30
+-50	52	-8
+-34	57	22
+
+// Franklin, R.,2011. Clips rated as being high versus low in humor (based on pilot's data ratings) [AND] Parametric effect of participants' individual ratings of the clips
+// Subjects=19
+-36	-46	22
+26	-10	18
+-18	8	44
+16	10	6
+-20	10	10
+-44	20	30
+24	-80	-38
+-38	-46	22
+-38	-26	48
+-22	0	12
+0	22	54
+26	-80	-38
+20	-76	-42
+22	-78	12
+-52	-46	30
+68	-36	0
+32	-32	6
+-46	-30	-10
+-14	-24	-12
+4	-6	6
+-22	-4	-12
+-50	8	-24
+-40	-22	54
+34	-8	-20
+52	14	-14
+
+// Haase, L.,2011. Sucrose vs. water, EITHER males or females, EITHER hungry or satiated
+// Subjects=21
+45	-6	-2
+-38	26	3
+16	-15	-1
+61	-1	18
+-51	-15	17
+15	-67	-9
+-1	50	-2
+42	52	3
+-4	10	-1
+-1	-27	28
+-37	45	14
+-4	-13	4
+10	-83	9
+-36	-13	11
+-35	1	9
+13	-13	-4
+45	3	-9
+-3	-72	14
+-20	68	5
+19	7	4
+-26	-49	-18
+13	-3	6
+63	0	9
+45	1	22
+-49	6	29
+
+// Krebs, R.,2011. Stroop stimuli appearing in a color signifying potential reward VS. no potential reward
+// Subjects=19
+54	6	46
+34	8	38
+46	16	42
+36	-76	-12
+46	-58	-16
+-10	10	-2
+-15	14	-6
+42	-58	16
+50	-54	14
+-46	48	22
+-38	58	18
+40	56	8
+46	52	0
+34	26	-4
+-50	-50	56
+-56	-42	54
+-46	-74	-6
+-46	-66	-16
+-48	-48	-18
+8	20	-6
+14	16	-8
+42	-42	52
+38	-54	52
+
+// Morris, R.,2011. Main effect of reward in healthy adults (expected and unexpected reward versus expected and unexpected non-reward) [AND] Healthy adults: Unexpected reward versus expected reward
+// Subjects=16
+-30	22	-2
+-42	4	30
+-38	-2	50
+48	14	28
+38	26	-4
+46	6	38
+6	12	54
+-8	8	50
+10	2	62
+6	-23	-13
+6	-23	-9
+-4	-29	-19
+6	-32	26
+6	-20	28
+-4	-30	26
+-30	22	-2
+-40	0	50
+-42	2	34
+6	14	50
+-4	12	50
+8	24	42
+30	24	-4
+48	38	-8
+56	24	20
+-30	-60	42
+12	6	10
+12	-8	8
+46	4	-26
+54	2	-20
+4	-24	-10
+-2	-24	-18
+8	-16	-10
+-10	10	2
+-14	-66	30
+8	-66	38
+-20	-66	4
+-4	-32	26
+8	-36	24
+6	-22	28
+-10	-14	10
+-6	-22	8
+48	-44	12
+42	-32	-2
+12	42	8
+10	40	20
+34	-52	44
+36	-60	42
+42	-50	38
+-24	54	14
+-26	50	-4
+-30	54	6
+
+// Onoda, K.,2011. Parametric effect of discounted value while waiting for payoffs.
+// Subjects=30
+22	14	18
+-26	2	2
+-46	18	46
+-50	36	-2
+-50	6	4
+68	8	28
+-50	-2	50
+-60	-18	42
+68	-22	22
+-4	-8	64
+-56	-28	-10
+-24	-2	24
+
+// Krebs, R.,2011. Main effect of reward (rewarded versus non-rewarded trials)
+// Subjects=11
+8	16	2
+-6	14	0
+4	-20	14
+-8	16	-4
+44	20	0
+20	10	-6
+10	2	10
+-14	14	10
+26	16	-8
+-4	-2	10
+16	-92	-8
+22	-90	-2
+-24	-94	-6
+8	-16	-6
+4	-24	-4
+8	-26	-14
+4	-14	-12
+12	40	18
+6	24	24
+-24	26	0
+0	-26	32
+2	-20	36
+38	-52	46
+
+// Carlson, J.,2011. Reward versus loss activation
+// Subjects=42
+-14	10	-8
+10	6	-4
+-16	20	2
+12	20	4
+-14	0	-16
+16	0	-16
+-26	30	-12
+2	26	-24
+-6	48	-8
+-2	56	0
+-18	32	54
+26	36	48
+50	-8	36
+16	-22	72
+-42	-56	0
+
+// Caria, A.,2011. Standard and favorite happy music versus control stimuli [AND] Favorite versus Standard happy music
+// Subjects=14
+54	0	48
+-6	3	75
+6	9	72
+-27	-60	-27
+45	30	0
+-51	-36	21
+30	-57	-30
+-24	6	9
+48	-33	0
+24	9	12
+69	-33	24
+48	-42	6
+-36	12	3
+-36	33	6
+51	15	0
+-12	-12	6
+27	48	42
+33	33	51
+39	-27	12
+33	33	0
+-9	-24	-42
+3	27	39
+-30	18	-9
+-36	-30	15
+-15	-54	39
+-63	-45	18
+-9	42	21
+-15	-9	6
+-18	12	12
+6	-30	-18
+0	-24	42
+-27	3	9
+6	9	9
+33	-39	-39
+12	66	3
+12	-6	0
+
+// Leknes, S.,2011. Imagining pleasant versus neutral scenarios
+// Subjects=18
+2	56	2
+-2	50	0
+4	42	-16
+-4	44	4
+2	34	4
+-2	32	-14
+-6	-56	12
+10	-54	2
+-18	-6	-14
+-14	-36	-12
+34	-32	-14
+-12	16	-6
+10	-56	6
+-6	-56	10
+-10	-6	6
+12	-18	2
+-8	-34	-12
+4	-34	-12
+
+// Ye, Z.,2011. Rewarded versus non-rewarded cues
+// Subjects=16
+-2	8	-10
+18	8	-12
+-20	2	-10
+14	0	-4
+-32	6	4
+32	14	6
+12	-6	64
+-8	46	12
+8	4	34
+-24	34	38
+-36	40	16
+40	44	32
+-38	38	8
+50	8	28
+-34	-24	62
+32	-16	56
+-54	-4	22
+-50	-10	12
+48	-26	22
+-48	-40	12
+56	-38	20
+-66	-24	-10
+52	-46	-24
+-40	-48	44
+22	-66	38
+-28	-92	-12
+28	-92	-12
+8	-70	16
+6	-24	-4
+-16	-68	-46
+4	-72	-36
+
+// Gradin, V.,2011. Parametric effect of cue expected value [AND] Parametric effect of reward prediction error during outcome
+// Subjects=20
+-22	-18	-22
+32	0	-26
+-22	-34	-12
+28	-52	-4
+-6	60	26
+-52	-10	28
+64	-2	30
+-16	-56	-26
+-24	4	-4
+30	6	0
+-6	4	-6
+10	4	-10
+-28	-4	-18
+32	-14	-14
+-6	4	16
+6	-6	18
+34	-6	16
+-8	-16	-18
+-62	-12	18
+66	-14	24
+38	-66	42
+-20	-74	-26
+20	-68	-20
+2	-70	-12
+
+// Staudinger, M.,2011. Anticipation of reward (1€ verus 0.05€)
+// Subjects=24
+18	10	-6
+26	8	8
+-24	14	2
+-8	10	-4
+8	18	30
+-10	10	44
+
+// Stice, E.,2011. Milkshake receipt versus tasteless solution receipt [AND] Milkshake cue versus tastless solution cue [AND] Winning versus neutral [AND] Impending win versus neutral
+// Subjects=25
+21	-12	63
+-21	-15	75
+-33	-60	30
+36	-60	27
+21	-3	30
+-24	3	21
+-21	-33	-18
+18	-36	-24
+-51	0	-24
+-6	36	-6
+-12	27	0
+-3	-30	-24
+-27	-15	-3
+-6	-24	60
+-9	-45	30
+-48	30	0
+-39	-42	51
+63	-9	-18
+-6	12	18
+-12	-90	3
+18	-69	9
+-27	-60	-30
+33	-45	-30
+9	-81	48
+-12	-72	12
+0	24	33
+0	6	21
+-36	6	39
+-24	-69	6
+-36	-24	36
+-36	9	24
+-51	6	12
+
+// Smith, A.,2011. Rewarded trials versus non-rewarded trials
+// Subjects=70
+1	32	-15
+13	-46	41
+-53	-60	24
+-37	-73	5
+-13	-78	32
+
+// Stoy, M.,2011. Anticipation of Gain versus anticipation of neutral [AND] Anticipation of Neutral versus anticipation of Loss
+// Subjects=12
+-21	0	5
+-21	9	-10
+-50	38	-2
+30	-96	11
+27	2	2
+17	6	-16
+-14	-86	20
+37	-89	23
+-9	-2	-4
+-18	12	-8
+20	14	-9
+
+// Stoppel, C.,2011. High versus low reward cues [AND] High versus low reward in feedback
+// Subjects=18
+20	-48	46
+-58	-2	-22
+20	26	26
+2	-88	-4
+-36	32	0
+40	30	4
+-30	-98	2
+32	-96	16
+
+// Figee, M.,2011. Reward Anticipation versus anticipation of neutral [AND] Reward Feedback versus non-rewarded Feedback
+// Subjects=19
+-12	16	4
+4	8	8
+-20	20	0
+-44	24	0
+-56	12	8
+-8	-4	16
+0	12	44
+12	8	-4
+-40	-24	24
+-56	24	20
+-12	-12	8
+0	48	0
+-20	-60	16
+8	-60	20
+-36	28	0
+-4	24	28
+0	52	28
+
+// Cikara, M.,2011. Positive outcomes (favored team’s success, rival team’s failure against favored team) > control (other teams successes and losses)
+// Subjects=18
+-27	-8	61
+-31	2	12
+25	4	-9
+-14	-5	74
+-40	5	-3
+28	4	6
+-42	-24	63
+-24	0	-9
+0	1	57
+
+// Acevedo, B.,2011. Images of the Partner versus Images of the Highly-Familiar, Neutral Acquaintance
+// Subjects=17
+0	-32	-6
+-16	-14	20
+-2	-14	12
+2	-16	14
+-18	-24	-14
+-26	-62	12
+-22	-8	-32
+-26	32	-16
+-52	-60	-6
+-8	-54	68
+-46	-16	-24
+
+// de Greck, M.,2010. Anticipation of reward versus anticipation of no outcome
+// Subjects=20
+-12	-3	-17
+17	0	-14
+8	18	45
+-5	18	48
+14	31	50
+-53	10	33
+-47	30	47
+-15	45	63
+62	-1	-1
+-15	24	1
+11	27	-3
+-6	32	-17
+
+// Li, J.,2011. Win versus loss in both sessions (feedback and instructed)
+// Subjects=20
+-3	12	-9
+-6	51	-6
+-42	-72	30
+-21	33	42
+63	-6	0
+-18	-12	-21
+27	-27	-24
+-27	-48	-15
+-9	-57	12
+12	-54	12
+-63	-21	6
+42	-30	9
+-12	-93	18
+21	-84	21
+-45	-60	9
+-51	-12	-24
+27	-33	57
+
+// Yu, R.,2010. Winning versus losing trial
+// Subjects=18
+-10	12	-12
+10	14	-6
+-8	46	-2
+-42	42	-16
+44	44	-6
+-14	40	50
+24	32	48
+
+// Prevost, C.,2010. Parametric effect of reward subjective value (delayed condition) [AND] Parametric effect of reward subjective value (effort condition)
+// Subjects=18
+10	10	-12
+-20	4	12
+-10	24	-12
+-34	34	8
+-22	-20	62
+-58	-18	38
+24	-26	46
+-42	-34	30
+14	-18	4
+48	-20	34
+-26	-100	4
+34	-98	-6
+-36	-18	66
+-34	-28	50
+
+// Crowley, T.,2010. Winning (decision) versus following instructions (baseline)
+// Subjects=20
+-36	56	12
+34	58	22
+24	54	-10
+24	52	38
+40	46	10
+0	44	12
+0	36	30
+0	20	24
+38	28	40
+6	23	59
+40	22	-12
+40	20	52
+2	18	52
+38	4	62
+18	10	16
+28	2	6
+24	-12	12
+-40	22	-12
+-2	10	12
+0	-34	34
+-20	8	18
+-30	-30	42
+36	-34	-4
+48	-44	50
+42	-48	38
+32	-74	52
+-40	-68	-44
+38	-66	-28
+6	-82	36
+34	-92	-8
+
+// Greening, S.,2011. Correct Response Feedback versus Error feedback
+// Subjects=21
+-1	54	-7
+
+// Ossewaarde, L.,2010. Rewarded versus non-rewarded cues
+// Subjects=28
+8	8	-4
+-8	6	-4
+4	6	54
+-38	-54	-30
+30	-58	-26
+46	20	-8
+-32	28	0
+52	-2	50
+-46	-6	58
+14	-24	-12
+0	-18	-18
+16	-28	44
+-22	-24	-10
+34	42	26
+-34	46	24
+
+// Gianaros, P.,2011. Positive Feedback versus control condition contrast [AND] Positive Feedback versus Negative Feedback
+// Subjects=76
+-20	6	-4
+-6	16	42
+40	-46	48
+30	-4	52
+18	-50	-20
+34	34	34
+10	-62	54
+-8	-58	52
+-44	26	34
+-30	48	16
+-16	6	-8
+-44	-46	60
+20	-50	-20
+0	-2	58
+-38	-22	54
+-52	4	42
+-56	8	6
+
+// Camara, E.,2010. Gain versus Loss (regular trials) [AND] Big gain versus Big Loss (unexpected trials)
+// Subjects=35
+-24	4	-12
+-24	8	16
+28	-8	-4
+-8	4	-8
+16	8	-4
+32	-84	4
+
+// Wunderlich, K.,2010. Correlation with chosen value (no resp mappings visible) [AND] Correlation with chosen value (stimuli and response mappings visible) [AND] Correlation with AVERAGE value (no resp mappings visible)
+// Subjects=24
+48	-3	-3
+48	-3	6
+-39	3	6
+-39	-3	15
+-30	-6	15
+39	15	-18
+-3	27	-9
+3	33	-6
+-12	45	0
+-39	0	-18
+-36	-24	-24
+-6	39	-12
+-3	33	-18
+-21	36	-3
+-48	-9	0
+-42	-12	18
+-39	-3	15
+-24	-48	24
+-33	-39	27
+-30	-60	18
+33	-54	21
+33	-39	21
+42	-33	21
+42	-12	3
+-15	3	30
+-24	18	21
+-18	12	27
+45	-3	12
+51	0	6
+21	33	12
+21	39	6
+-21	-45	-9
+-18	-45	3
+-9	48	-3
+-24	-54	-45
+-21	-48	-39
+-33	3	6
+-9	51	48
+48	0	-9
+-9	57	33
+
+// Iyer, A.,2010. Reward versus Punishment [AND] Correlation of "Good outcome" (Large Reward > Small Reward > Small Punishment > Large Punishment)
+// Subjects=17
+-9	6	-3
+-6	9	0
+6	6	-3
+-6	6	6
+-12	9	-6
+15	9	-6
+-36	18	-15
+-30	18	6
+-51	-54	51
+51	-54	48
+0	33	9
+12	39	21
+36	27	27
+0	48	-6
+-48	12	45
+30	33	0
+6	51	-6
+-3	18	0
+
+// Weil, R.,2010. Reward versus no reward [AND] Anticipation of higher versus lower reward
+// Subjects=12
+-8	38	-16
+-6	14	-2
+16	16	4
+32	-10	4
+-22	14	62
+-28	-68	48
+28	-88	8
+-30	-88	6
+-12	20	0
+-60	12	2
+-8	18	42
+48	26	-6
+
+// Tsukiura, T.,2011. Correlation with rated attractiveness
+// Subjects=20
+26	22	-4
+-49	-20	50
+-8	-9	39
+11	-88	4
+19	-53	-17
+
+// Bjork, J.,2010. Anticipatory cues signaling potential rewards versus no incentive (adults) [AND] Notification signaling rewards versus no incentive (adults)
+// Subjects=24
+18	2	-6
+-14	13	-5
+9	-11	6
+-17	-22	-1
+4	-16	-14
+28	-27	64
+-38	-18	57
+-1	21	41
+4	-74	11
+4	-73	-14
+10	10	-11
+-14	9	-11
+18	-6	11
+16	-102	10
+-6	-66	23
+-6	50	-14
+4	-40	41
+
+// Campbell-Meiklejohn, D.,2010. Token for buying the song assigned to the preferred versus non preferred song
+// Subjects=28
+-46	40	4
+14	10	-8
+-18	0	-16
+-16	16	-2
+-2	-36	34
+
+// Phan, K.,2010. When the subject trusted and the respondent reciprocated versus when the respondent keep the money
+// Subjects=36
+20	12	-10
+-26	8	-8
+13	19	23
+38	-90	-6
+26	36	4
+32	-26	58
+42	-68	-50
+32	52	-12
+
+// Cohen, J.,2010. Reward versus no reward
+// Subjects=11
+6	-72	-8
+58	-34	48
+-18	8	-10
+20	10	-10
+-6	-20	26
+
+// Frank, S.,2010. Seeing pictures of high caloric foods while being hungry versus being satiated
+// Subjects=6
+-3	45	54
+24	-72	-6
+-15	48	-6
+-24	18	60
+9	21	-12
+-24	-72	-3
+
+// Kable, J.,2010. Correlation with relative subjective value ("now" condition)
+// Subjects=22
+-12	-37	34
+39	-13	49
+33	17	-11
+-48	-10	43
+-45	-43	49
+3	5	4
+0	35	28
+-54	11	7
+
+// Barros-Loscertales, A.,2010. Erotic versus Neutral pictures
+// Subjects=45
+4	10	-6
+-2	48	0
+2	12	-8
+4	-22	4
+-2	-16	2
+-26	-2	-16
+2	50	36
+-2	54	30
+48	18	24
+-42	26	2
+-38	-4	56
+0	10	62
+-32	20	-18
+-12	-62	-10
+0	-56	46
+46	-70	0
+-46	-72	8
+40	-60	-22
+-36	-76	-22
+
+// Costa, V.,2010. Pleasant Imagery versus Neutral Imagery
+// Subjects=29
+-4	58	17
+-42	28	-6
+22	11	-22
+-50	41	8
+-40	54	-10
+-55	-8	-34
+46	22	-40
+-11	-17	64
+-58	-60	42
+-56	-58	30
+1	-8	10
+3	-8	14
+-18	18	-5
+10	21	1
+-37	-75	-29
+33	-86	-33
+
+// Smith, D.,2010. Parametric effect of monetary reward level (spanning losses and gains) [AND] Large gains (+$5 & +$2) versus large losses (-$5 & -$2) [AND] Parametric effect of face attractiveness (spanning unattractive to attractive) [AND] attractive faces (those from the 4-star category) compared to unattractive faces (those from the 1-star category)
+// Subjects=23
+0	68	-2
+12	60	0
+8	68	0
+-6	72	-4
+4	52	-10
+12	58	2
+-2	68	-2
+10	64	0
+0	44	-10
+-2	62	-2
+-18	32	34
+-14	40	6
+-26	20	44
+-24	24	52
+-18	46	10
+-50	-76	-2
+36	-84	16
+40	-82	6
+4	-80	16
+12	-86	10
+34	28	-6
+0	48	-8
+-8	16	-6
+14	-16	-2
+-16	16	2
+-18	-62	48
+-26	-50	48
+-10	-64	60
+-20	-54	34
+-20	-90	24
+-26	-82	36
+-26	-68	24
+-28	-70	20
+-34	-86	24
+0	48	-8
+-8	18	-6
+0	38	-12
+0	42	-6
+-18	18	0
+50	-76	-2
+34	-92	-6
+40	-82	8
+54	-72	10
+48	-74	6
+40	-84	-2
+
+// Miedl, S.,2010. Win versus lose a game
+// Subjects=12
+48	-11	30
+-14	5	-20
+18	5	-20
+-28	5	66
+-17	-57	63
+-22	-100	-1
+-9	-80	-3
+-7	-82	12
+-3	-90	19
+-11	-62	11
+14	-92	10
+14	-96	32
+19	-72	20
+8	-94	17
+25	-64	9
+21	-64	17
+-8	10	-13
+12	10	-15
+4	-22	30
+-9	-14	8
+-16	-14	14
+21	-26	10
+-3	-78	-9
+27	-66	-12
+
+// Roiser, J.,2010. parametric modulation of reward outcome
+// Subjects=23
+15	18	-6
+-9	12	3
+-54	-54	-18
+57	-48	-18
+3	45	12
+54	36	24
+-51	-42	48
+45	48	-12
+-6	-81	-33
+48	9	33
+-45	3	33
+48	-51	54
+66	-36	0
+54	-36	57
+60	-33	-9
+-48	42	12
+
+// Luo, S.,2009. High versus low rewards
+// Subjects=37
+12	14	4
+8	-4	10
+-12	-22	-4
+-18	-84	12
+-8	-98	10
+
+// Cooper, J.,2009. Uncertain - high-grain versus high-loss [AND] Uncertain - high versus low gain [AND] Uncertain - high versus low gain [AND] Uncertain - high-grain versus high-loss
+// Subjects=12
+-34	-44	66
+38	-50	20
+6	44	10
+-4	-10	56
+6	20	30
+2	6	48
+4	-26	38
+-40	-30	66
+-8	12	-2
+-40	26	0
+-30	28	-6
+8	-64	26
+-40	8	14
+-6	-44	18
+38	12	-6
+-24	44	34
+-40	-14	52
+8	40	-14
+10	-16	10
+-28	46	26
+-38	2	58
+-34	50	14
+-18	16	8
+-2	-36	60
+-30	-44	70
+8	-76	48
+-4	54	-8
+-8	-18	28
+14	-10	24
+18	-70	38
+56	8	-10
+14	-38	52
+-4	4	66
+-2	8	36
+-58	12	6
+28	-58	6
+22	-52	8
+24	-4	8
+10	-66	24
+-24	-16	54
+44	-50	-4
+-26	-20	-2
+10	6	10
+14	2	-2
+30	34	18
+-10	-10	38
+14	14	-12
+-40	-10	60
+-34	-38	66
+-32	38	40
+52	-8	54
+-14	-84	32
+-4	14	-14
+42	2	52
+-28	2	48
+14	-48	-4
+-44	-50	20
+4	-84	32
+-4	-8	16
+58	-28	30
+-16	-54	-2
+34	22	2
+26	-72	24
+30	36	-6
+-16	-68	28
+36	-4	-22
+-10	-38	6
+-38	-16	52
+34	4	60
+50	-36	0
+-30	-76	28
+12	-20	0
+-16	-14	22
+-34	2	-8
+-2	36	-18
+34	-8	-26
+24	-20	62
+
+// Goldstone, A.,2009. High-calorie versus low-calorie when fasted
+// Subjects=20
+-36	-46	-32
+28	-40	-30
+-8	-24	50
+-36	10	-16
+34	2	-24
+38	-10	-14
+-26	48	34
+2	2	70
+-24	36	54
+-46	4	54
+54	-44	12
+-38	18	-28
+-16	-8	54
+-20	-38	2
+-34	-40	64
+18	-74	-24
+-8	-78	0
+30	34	-16
+62	-4	0
+-20	66	6
+42	40	-2
+54	-24	44
+-14	-46	-4
+40	16	-36
+-14	56	-8
+26	34	54
+-54	-72	18
+-64	-56	16
+56	-10	24
+12	-54	-52
+8	20	30
+58	14	34
+10	28	62
+60	10	-16
+-20	-8	74
+-32	-20	68
+-50	-24	24
+-10	14	36
+
+// Simon, J.,2010. Anticipation of reward versus non reward [AND] Receipt of reward versus omission of reward [AND] Anticipation of 1 euro (max reward) versus non reward
+// Subjects=24
+15	3	-3
+18	12	3
+0	48	-6
+-45	57	-9
+48	51	-12
+6	-3	30
+-3	-9	9
+-45	6	36
+33	-3	24
+15	0	-3
+-3	30	15
+33	18	-9
+-42	9	12
+0	12	24
+-6	-27	0
+
+// Christakou, A.,2009. Win versus loss
+// Subjects=19
+1	13	48
+-34	12	49
+1	-5	6
+-37	-19	45
+37	-72	12
+6	-69	49
+52	-47	28
+-18	-6	7
+1	-44	16
+32	-7	-12
+
+// Grabenhorst, F.,2009. Absolute correlation with pleasantness 
+// Subjects=12
+-32	4	60
+-14	4	60
+
+// Chua, H.,2009. Winning vs. losing gambles
+// Subjects=12
+12	6	-15
+-18	9	-12
+0	54	-6
+
+// Walter, H.,2009. Correlation with cued reward level. [AND] Correlation with the difference between the obtained outcome and the alternative
+// Subjects=16
+-12	6	-3
+9	6	-3
+15	-15	-12
+9	-27	-12
+-6	-24	-12
+-6	12	30
+-39	27	-6
+-21	-66	21
+21	-72	15
+-9	-99	6
+-3	51	-6
+12	3	-9
+42	24	-15
+9	39	21
+42	36	21
+
+// Trautmann, S.,2009. Happy faces versus neutral ones (dynamic)
+// Subjects=16
+-26	-97	10
+-34	-73	-18
+-42	-78	-15
+-26	-80	-16
+-18	-92	27
+16	-90	-4
+14	-78	-11
+18	-82	-6
+46	-67	-17
+14	-95	10
+12	-94	23
+10	-84	30
+-32	-74	37
+-42	-57	-16
+-36	-55	-21
+-44	-74	31
+-53	-67	25
+51	-62	12
+-4	52	-4
+-2	48	-14
+4	21	63
+-28	18	8
+-28	-29	-7
+-18	-28	-10
+18	-43	4
+16	-50	8
+4	-52	12
+
+// Glocker, M.,2009. parametric effect of cuteness of baby pictures
+// Subjects=16
+-3	30	36
+-24	-68	35
+-44	-65	-8
+-33	-55	-15
+12	13	-14
+
+// Engelmann, J.,2009. Linear effect of incentive level (spanning negative to positive) in cue period.
+// Subjects=20
+7	-75	7
+-10	-72	44
+-26	-62	52
+8	-23	42
+-7	-25	43
+6	26	34
+-1	25	34
+1	10	51
+41	-8	53
+-26	-6	60
+-34	47	25
+42	20	-3
+-31	24	-2
+15	12	7
+-7	7	3
+22	7	-4
+-20	6	-4
+13	-15	3
+-8	-18	5
+10	-19	-14
+
+// Van Leijenhorst, L.,2010. reward versus no reward [X X X] > [X X Y]
+// Subjects=15
+15	-81	6
+-15	-102	-3
+-30	-93	-12
+
+// Fujiwara, J.,2009. Correlation with gain (gain outcomes only)
+// Subjects=16
+-10	42	6
+14	52	18
+4	32	6
+-6	-12	30
+-10	-30	32
+0	-48	26
+-14	14	52
+-14	48	36
+14	48	40
+-48	20	4
+46	32	-4
+0	-18	-14
+50	-26	-22
+58	-36	-10
+38	-58	40
+60	-54	20
+64	-44	30
+-20	-72	-36
+-4	-12	30
+-2	30	8
+-8	-30	32
+18	-32	56
+50	24	4
+46	30	-2
+38	14	32
+-34	16	-18
+-46	20	4
+-10	-10	-10
+54	-20	-14
+58	-34	-10
+58	-42	20
+
+// Chambers, E.,2009. Glucose versus neutral solution [AND] Saccharin versus neutral solution [AND] Glucose versus neutral solution
+// Subjects=7
+50	14	12
+-38	18	-6
+-40	44	22
+26	48	14
+38	34	34
+18	14	8
+4	34	26
+50	12	4
+-36	36	14
+30	20	10
+56	2	12
+-52	0	32
+2	46	-6
+-40	48	12
+14	20	-2
+-12	18	-6
+-14	22	30
+10	20	40
+
+// Clark, L.,2009. Win versus no-win
+// Subjects=15
+31	17	-17
+-37	20	-10
+18	4	-18
+18	7	-9
+-14	11	-7
+-10	-2	-11
+-3	35	0
+8	33	15
+12	44	-6
+-5	-21	-18
+10	-21	-16
+-7	-12	-12
+-1	-32	30
+4	-11	32
+6	0	34
+6	-17	33
+33	-71	-28
+3	-16	-1
+
+// Schlagenhauf, F.,2009. Reward anticipation versus neutral trials
+// Subjects=15
+15	-6	-18
+12	6	-3
+-6	-54	-6
+9	-21	-12
+
+// Serences, J.,2008. Cue signaling reward versus cue signaling no reward
+// Subjects=15
+41	-48	44
+45	32	27
+29	19	-5
+26	54	-3
+12	10	-2
+-40	-43	45
+-10	3	-2
+-20	5	-5
+6	-67	37
+
+// Delgado, M.,2008. Win versus loss (both experiments)
+// Subjects=17
+-26	-64	35
+12	3	-3
+-9	6	-6
+-46	-52	-7
+-40	-60	-13
+
+// Smith, B.,2009. Higher versus lower gamble magnitude (equal probability)
+// Subjects=25
+-4	-52	28
+0	-9	46
+8	60	9
+-60	-54	6
+-29	1	22
+42	-6	-10
+
+// Dreher, J.,2008. Anticipation of reward versus anticipation of no reward [AND] Reward versus no reward
+// Subjects=20
+-34	-57	49
+8	11	-4
+-19	8	15
+-8	27	23
+53	15	38
+46	46	19
+34	27	-11
+-46	11	34
+-46	34	8
+4	30	53
+0	-34	30
+-34	-65	49
+30	-68	49
+0	-34	30
+-27	-30	-8
+19	-30	-4
+
+// Vrticka, P.,2008. Win vs Loss [AND] Smiling versus Angry faces (during win feedback) [AND] Smiling versus Angry faces (during loss feedback)
+// Subjects=16
+-36	39	-15
+18	21	18
+12	12	-6
+-24	9	0
+30	18	42
+33	51	24
+-42	48	24
+-30	15	48
+15	-6	48
+27	-21	-24
+-15	-108	9
+45	-63	33
+-24	48	-3
+15	-63	63
+9	33	18
+51	-42	57
+-24	18	-12
+-45	-48	57
+3	-90	12
+-48	-39	-6
+60	-54	36
+-54	21	33
+54	-57	48
+-15	-105	6
+
+// Kumar, P.,2008. Correlation with TD learning signal for water delivery (vs. no water)
+// Subjects=18
+-24	6	-10
+32	2	-12
+-20	0	-20
+26	-2	-14
+10	8	0
+-4	10	46
+-2	-14	-6
+
+// Hooker, C.,2008. Happy Object versus Neutral Object
+// Subjects=12
+-18	-14	-22
+-22	-2	-16
+24	-12	-14
+-16	-40	64
+6	-40	58
+48	-10	-10
+-40	-18	-6
+-54	4	-18
+6	-10	-10
+16	-16	36
+40	-70	14
+
+// Rowe, J.,2008. Parametric effect of reward expectancy
+// Subjects=28
+-8	44	4
+48	-18	8
+-50	-20	4
+
+// Schiffer, B.,2008. Naked men versus dressed men
+// Subjects=12
+48	51	12
+54	42	12
+45	-67	-18
+48	-48	-15
+-45	-78	-12
+-48	-48	-21
+36	-81	33
+27	-57	54
+15	-66	63
+21	-69	57
+33	-84	15
+42	-84	3
+-45	-78	-12
+-33	-90	3
+42	-75	-12
+36	-75	27
+
+// Wittmann, B.,2008. Anticipation of reward versus anticipation of non reward
+// Subjects=25
+-37	36	26
+-5	33	29
+-2	41	13
+-27	-1	49
+34	-1	51
+40	-51	-26
+-1	-58	66
+-30	-61	52
+40	-89	2
+-8	7	11
+-15	12	-12
+23	12	-14
+-9	-19	-10
+
+// van den Bos, W.,2007. Positive Feedback > Negative Feedback
+// Subjects=19
+10	10	-5
+-10	9	-6
+15	9	-16
+-17	10	-13
+
+// Schmitz, N.,2008. contrast of successful rewarded– successful non-rewarded stimuli
+// Subjects=10
+33	-21	15
+3	19	21
+-3	24	14
+28	34	35
+-30	49	37
+
+// Fliessbach, K.,2007. Win versus non-win trials [AND] main effect of relative reward
+// Subjects=33
+-15	-101	-1
+-12	9	-14
+11	12	-12
+34	-93	18
+2	-43	39
+58	-56	31
+-2	55	-18
+1	39	-23
+-43	-66	33
+-25	18	-12
+11	7	-10
+8	-54	52
+-24	-65	38
+31	-68	57
+49	34	37
+71	-20	19
+11	-68	64
+31	-66	45
+
+// Cohen, M.,2008. reward versus loss
+// Subjects=15
+60	8	-7
+63	5	0
+65	-30	25
+65	-15	8
+30	-2	-7
+30	8	10
+8	-52	23
+68	0	20
+33	35	-10
+8	28	-10
+60	-5	-17
+48	-55	5
+38	5	8
+68	-47	-10
+50	-47	-15
+53	40	10
+3	-17	40
+13	-35	35
+10	-12	45
+25	-2	-15
+-60	-35	38
+-57	-27	10
+-12	-87	33
+-12	33	55
+-17	23	60
+-30	-12	10
+-2	-55	20
+-60	8	38
+-47	-17	40
+-30	-22	-20
+-30	30	-10
+-47	-62	23
+-47	-5	-22
+-52	60	0
+-60	-7	-7
+-35	0	10
+-40	-40	-15
+-45	30	18
+-42	33	5
+-30	-10	-17
+-10	48	48
+-5	-35	45
+-2	-37	38
+-2	33	13
+-45	-70	35
+-22	0	-12
+-23	0	-13
+25	-3	-15
+-45	-70	35
+
+// Kim, H.,2007. Chosen versus unchosen faces [AND] Chosen versus unchosen faces
+// Subjects=14
+30	-21	-18
+42	0	15
+15	3	-12
+9	6	-9
+-60	-15	-27
+-39	0	15
+-15	27	-15
+-18	-12	-6
+12	39	21
+
+// Knutson, B.,2008. Gain versus Non anticipation [AND] Gain versus Non Outcome
+// Subjects=12
+10	46	5
+-11	12	-8
+21	12	-13
+7	13	-6
+-10	11	-9
+9	6	0
+-16	2	-12
+1	-6	10
+-3	64	-13
+-15	29	-2
+10	22	-2
+-24	17	-4
+1	13	33
+-15	0	-16
+65	-2	9
+17	-8	22
+-15	-13	23
+-27	-15	-6
+21	-23	-6
+-35	-26	62
+-51	-31	50
+50	-34	57
+-2	-57	69
+30	-57	64
+
+// Cooper, J.,2008. Parametric effect of cue expected value
+// Subjects=12
+-10	38	4
+-3	31	2
+40	-74	42
+-22	13	44
+-1	-24	0
+-35	47	12
+41	38	-30
+52	44	-6
+49	-48	42
+-10	35	-31
+-18	12	-25
+-26	-2	66
+8	-71	-25
+55	-72	-21
+-29	15	-9
+37	-56	-33
+-17	-64	62
+-20	-12	71
+-30	-56	52
+-50	-46	45
+-54	-57	48
+
+// Marco-Pallares, J.,2007. Positive versus Negative Feedback
+// Subjects=12
+36	-77	-31
+18	-84	-14
+21	7	-9
+-3	-20	34
+-5	34	17
+-8	8	-8
+-3	-30	9
+-6	8	29
+-13	5	-7
+-48	-58	-14
+-57	-53	10
+
+// Sailer, U.,2007. Correct versus Wrong performance feedback in the exploratory phase 
+// Subjects=38
+18	32	-16
+2	54	-14
+-20	10	-20
+-16	20	-10
+-48	-6	48
+-6	-68	46
+-52	12	20
+
+// Campbell-Meiklejohn, D.,2008. Activity greater having chased and won compared to having chased and lost
+// Subjects=23
+-8	-66	2
+0	-76	8
+28	-68	-14
+-20	-54	-10
+20	-52	-14
+34	20	-12
+14	10	-12
+-20	8	-12
+4	48	0
+10	-48	32
+0	-18	30
+
+// Safron, A.,2007. Pereferred versus Nonpreferred stimuli
+// Subjects=22
+-28	-85	-5
+-32	-84	14
+34	-82	-4
+-18	-89	1
+-21	-89	4
+29	-85	24
+-22	-83	35
+-12	-53	22
+12	-56	22
+-9	-61	64
+31	-41	-2
+-27	-24	-1
+-19	-15	-1
+-19	-23	7
+-24	-25	17
+-14	7	14
+-19	-18	27
+9	9	16
+18	-17	27
+-33	2	18
+-29	27	17
+-1	26	21
+10	20	21
+-36	-32	52
+-38	-17	58
+-39	-43	65
+-16	-36	66
+-27	-38	65
+26	-40	-34
+26	-53	-24
+-19	19	48
+17	1	36
+16	23	45
+45	21	26
+
+// Pessiglione, M.,2007. Higher versus lower reward (£1 versus 1p)
+// Subjects=18
+-12	-2	-8
+12	0	-6
+
+// Schaefer, M.,2007. Favorite versus non favorite brand
+// Subjects=14
+28	0	0
+-4	10	50
+-30	2	36
+-48	8	6
+-48	40	4
+
+// Remijnse, P.,2006. Correct response versus baseline trial
+// Subjects=27
+36	54	-12
+15	36	-15
+45	42	21
+30	-63	48
+36	-93	-9
+-33	-96	-12
+6	18	6
+-6	15	6
+-12	6	-9
+
+// Tricomi, E.,2006. Correct versus Incorrect trials (learning task) [AND] Reward versus Punishment (card guessing task)
+// Subjects=13
+-2	47	-21
+-65	-39	-5
+61	-21	-7
+55	-65	5
+-45	-79	-1
+18	19	-1
+2	52	-13
+49	41	14
+-53	-53	-8
+6	-41	31
+-28	-79	50
+-14	18	-1
+13	18	-1
+2	-9	10
+
+// Kim, H.,2006. Reward receipt versus aversive outcome (lose money) [AND] Correlation with expected reward during choice
+// Subjects=16
+15	18	9
+-6	30	-21
+-36	27	-21
+
+// Daw, N.,2006. Expected reward value of chosen action
+// Subjects=14
+-3	45	-18
+45	36	-15
+-3	33	-6
+
+// Abler, B.,2006. Correlation with increased probability of reward
+// Subjects=11
+11	0	-18
+-9	10	-18
+11	-2	-4
+-8	-20	8
+4	-58	-29
+
+// Hsu, M.,2005. correlation with expected value of decisions in risk condition of Card-Deck treatment. [AND] correlation with expected value of decisions in Knowledge treatment
+// Subjects=16
+9	24	54
+12	39	51
+9	12	54
+60	-33	3
+57	-42	3
+-51	-72	30
+-42	-78	33
+-66	-30	-9
+-9	-18	18
+-9	-3	18
+15	6	3
+48	24	-15
+54	39	-3
+39	24	-15
+-9	45	9
+-3	57	33
+-9	39	30
+-6	48	27
+3	-42	-6
+60	-57	30
+60	-51	39
+-6	27	42
+-45	42	6
+21	48	27
+18	57	33
+33	-87	15
+39	-84	9
+-9	12	3
+-6	3	6
+-24	-63	51
+
+// Cohen MX, Y.,2005. Reward versus No-Reward
+(expt 1) [AND] Reward versus No-Reward
+(expt 2)
+// Subjects=17
+21	39	-21
+-10	42	-24
+27	-1	-21
+-23	0	-16
+14	14	-10
+-21	14	-10
+28	-35	-3
+39	-21	-14
+-38	-24	-17
+7	-87	0
+-28	-45	-28
+14	-45	-14
+25	-10	67
+18	-7	-28
+-17	-3	-14
+-28	-24	-14
+-21	21	-25
+4	-56	35
+25	25	-21
+39	-21	14
+11	0	-14
+14	11	-14
+53	-17	46
+-31	-14	-21
+-7	4	8
+
+// Rodriguez, P.,2006. correlation with a prediction error signal
+// Subjects=15
+-33	-42	-12
+
+// Menon, V.,2005. Pleasant music versus scrambled music
+// Subjects=13
+-50	17	-12
+48	18	-15
+12	27	29
+-3	3	-4
+-7	-28	-17
+7	-51	-44
+
+// Nieuwenhuis, S.,2005. Positive versus Negative Feedback
+// Subjects=14
+4	48	10
+1	43	-10
+23	46	40
+0	-28	35
+-14	10	1
+18	9	-1
+-32	-75	-22
+
+// King-Casas, B.,2005. Benevolent versus Malevolent investor
+// Subjects=48
+12	24	4
+-8	20	4
+
+// Reuter, J.,2005. Winning versus losing
+// Subjects=12
+12	15	-6
+-12	9	-6
+33	45	-9
+-9	42	-3
+
+// Fitzgerald, T.,2010. correlation with reward probability of one of the two cues
+// Subjects=17
+-15	27	3
+15	27	3
+27	-87	-12
+15	-54	33
+18	-33	0
+30	-66	-21
+15	48	15
+-15	57	-3
+-3	-48	33
+-30	12	-6
+0	-63	-48
+27	0	6
+
+// Bjork, J.,2004. Gain versus no gain anticipation [AND] No loss versus loss anticipation [AND] Gain versus no gain outcome
+// Subjects=12
+36	20	-3
+14	20	-9
+-12	18	-9
+12	10	-4
+-10	1	9
+-11	9	-6
+23	12	-9
+-3	-27	-1
+10	-26	6
+7	-8	10
+-7	-20	13
+-3	-22	2
+3	-77	15
+30	0	-19
+14	48	-21
+0	44	-20
+31	30	-21
+-30	31	-19
+8	17	-6
+-9	17	-5
+13	11	-11
+-22	7	-9
+-29	-12	-4
+23	-1	-17
+-17	-3	-16
+2	-3	7
+26	-22	-8
+-17	-28	-5
+16	-56	23
+4	-62	20
+
+// Mobbs, D.,2003. Funny versus non funny cartoons
+// Subjects=16
+-46	-62	15
+-52	19	17
+-1	12	64
+-10	-1	1
+
+// Kahnt, T.,2010. Activity Related to Signed Reward Prediction Errors 
+// Subjects=20
+-9	0	-3
+0	27	42
+-33	21	-3
+30	21	-6
+54	15	36
+48	18	9
+33	-48	42
+
+// Zhang, W.,2011. Placebo unpleasant versus control unpleasant
+// Subjects=13
+-12	20	-11
+3	17	-8
+
+// Chapin, H.,2010. Main effect of Expressive vs. Mechanical
+// Subjects=21
+20	-42	-5
+46	-60	-13
+42	-34	52
+50	30	-7
+16	-1	-22
+-1	72	-6
+7	38	-12
+-30	-47	54
+3	59	36
+-14	51	45
+
+// Ortigue, S.,2010. Love vs. Friend
+// Subjects=36
+6	12	0
+6	-22	-22
+-26	20	-4
+36	-4	2
+36	-88	-18
+-48	-50	-24
+34	-18	-28
+-40	-8	-34
+66	-44	32
+-46	26	26
+-44	-26	-20
+-18	-96	-8
+12	-48	-38
+-36	-78	-52
+
+// Murayama, K.,2010. Success versus failure trial (outcome)
+// Subjects=28
+21	20	-2
+-21	23	1
+-42	29	-2
+57	32	19
+42	26	-11
+-9	-7	-11
+-24	35	-11
+-12	20	52
+33	32	-2
+
+// Howard-Jones, P.,2010. Negative Correlation with points won by the competitor
+// Subjects=16
+18	-6	-8
+38	12	49
+0	-41	67
+-36	-48	56
+-55	-15	45
+-2	39	35
+20	68	18
+52	4	26
+-24	22	0
+-20	56	24
+-48	-20	10
+-64	-28	0
+-58	-28	18
+68	-32	2
+66	-24	-4
+28	-40	-50
+30	-28	54
+4	-10	28
+
+// Peters, J.,2009. Subjective value correlation for delay discounting [AND] Subjective value correlation for probability discounting
+// Subjects=22
+-58	-46	36
+-54	-56	46
+-50	-54	36
+-8	4	-8
+-18	-6	-12
+54	42	26
+54	40	-4
+48	36	-12
+70	36	2
+66	-30	-2
+58	-40	-2
+12	46	6
+28	16	-18
+-2	-46	32
+50	-22	-20
+-8	52	16
+-2	58	24
+-34	32	12
+-44	14	12
+-52	14	8
+36	30	-16
+-18	16	12
+-66	-30	-6
+-64	-32	2
+54	6	42
+42	-38	44
+40	-46	42
+-36	-52	46
+-8	4	-8
+-6	-20	10
+6	-12	6
+-48	-62	-10
+-58	-48	-10
+-52	-44	-14
+0	-34	42
+-4	-34	26
+6	-20	32
+44	8	26
+36	4	30
+52	10	18
+-12	-96	-6
+-16	-92	0
+-24	-72	-8
+-42	-2	30
+-48	6	28
+-50	6	42
+46	36	10
+42	30	20
+56	-54	-10
+48	-56	-10
+46	-56	-20
+-26	18	0
+-18	60	4
+-24	56	0
+-4	38	-8
+4	40	-2
+22	-50	-24
+-44	42	8
+-40	36	14
+-38	24	20
+-12	-76	-24
+26	34	-14
+30	18	-6
+24	24	-10
+-22	34	-18
+-14	40	-16
+-20	26	-18
+-6	-30	-8
+10	-80	-26
+-14	-38	-2
+18	-18	14
+12	-80	6
+6	-80	18
+0	-76	8
+26	18	-16
+38	-82	-4
+54	30	18
+4	-28	-16
+28	18	44
+6	28	-10
+48	120	-48
+-10	28	30
+-26	10	-18
+2	2	38
+
+// Carretie, L.,2009. Positive versus Neutral
+// Subjects=18
+-8	-80	-14
+12	-82	-20
+22	-96	6
+
+// Martin, L.,2009. Reward versus Norward
+// Subjects=20
+1	58	1
+-6	2	-1
+1	40	-1
+
+// Pine, A.,2009. correlation with undiscounted utility [AND] correlation with the temporal discount factor [AND] correlation with discounted utility
+// Subjects=24
+15	-78	-12
+12	-96	9
+-18	9	-15
+15	12	-3
+-15	12	-3
+-6	30	30
+-15	-9	6
+0	-18	-18
+-30	-96	-9
+30	-24	24
+-30	-30	21
+-42	-72	-30
+45	6	24
+-57	-24	48
+-63	-27	6
+33	-9	12
+-57	-51	-15
+-9	12	0
+12	12	0
+-42	-60	42
+36	27	-3
+45	-57	-39
+9	45	9
+-3	42	-12
+-42	45	-6
+-48	42	6
+-27	21	-3
+3	-18	-18
+-3	-27	33
+54	24	0
+51	-21	-21
+-57	21	-3
+-63	-24	-18
+36	36	-12
+-54	27	27
+54	18	33
+-6	-15	-3
+-21	-99	-9
+15	-81	-9
+9	45	12
+60	-57	21
+15	1	15
+-57	-54	33
+-9	-3	0
+
+// Lim, S.,2011. Correlation with stimulus values during liking-rating trials
+// Subjects=20
+6	36	-8
+-14	12	0
+6	-34	46
+-18	-65	62
+6	-60	28
+
+// Koelsch, S.,2006. Pleasant versus Unpleasant
+// Subjects=11
+-38	-25	14
+-39	33	1
+-30	21	3
+50	-16	9
+37	24	-1
+
+// null, .,2003. Pleasant vs tasteless [AND] Pleasant vs unpleasant
+// Subjects=9
+-27	12	-12
+36	21	-21
+39	33	-18
+0	39	6
+3	42	-6
+-12	36	38
+
+// null, .,2009. Correlation with valence for pleasant pictures [AND] Correlation with valence for unpleasant pictures
+// Subjects=17
+-57	-43	46
+42	20	25
+-30	23	-2
+30	23	1
+-45	47	-2
+21	50	1
+-15	53	-2
+33	17	-17
+18	-1	-17
+
+// null, .,2010. Correlation with BOTH attractiveness of faces and goodness of actions
+// Subjects=20
+8	3	-16
+-8	-51	13
+
+// null, .,2008. Correlation with subjective value (magnitude x probability) of chosen option.
+// Subjects=20
+73	-36	13
+66	-35	26
+65	-22	-12
+-2	44	-17
+-5	-48	35
+-5	-12	45
+-31	1	4
+-37	-14	59
+-40	-24	20
+-50	-66	17
+-53	0	1
+-60	-27	17
+-56	-48	-2
+-53	-29	-10
+
+// Brooks, S.,2011. Food versus Non Food
+// Subjects=24
+-4	-63	-20
+51	-11	-7
+51	-37	7
+-4	0	20
+
+// Gilman, J.,2011. Win versus Safe [AND] Win versus Loss
+// Subjects=20
+-26	28	-4
+4	-71	-14
+-45	10	16
+-40	28	32
+-25	0	50
+30	0	49
+37	-49	17
+20	-7	45
+-32	-28	50
+-43	51	3
+-6	38	24
+-11	7	-18
+13	14	-21
+-51	-52	-15
+-13	43	-23
+
+// Hare, T.,2011. Correlation with sum of 2 presented decision values
+// Subjects=19
+-18	-94	13
+-18	-25	-8
+12	-7	-11
+-6	44	-5
+21	-70	46
+
+// Harsay, H.,2011. Preparation for an antisaccade when a reward (vs no reward) is at stake
+// Subjects=14
+12	10	6
+-16	14	14
+20	8	4
+-26	8	4
+6	10	-6
+-12	18	-8
+-22	34	-14
+16	6	0
+-18	2	2
+-28	2	-18
+22	2	-18
+10	-24	2
+-6	-24	4
+-44	10	-4
+38	16	0
+-40	36	28
+38	38	28
+2	20	30
+4	36	14
+26	-4	58
+-28	-8	60
+-6	6	54
+32	-42	42
+-32	-48	42
+38	34	2
+30	-76	22
+-34	-76	16
+16	66	33
+-56	6	-8
+-2	-70	44
+
+// Tricomi, E.,2008. Correct versus Incorrect
+// Subjects=11
+-21	-53	14
+56	-4	-8
+26	-62	-6
+-32	-79	-4
+-8	10	-5
+
+// Petrovic, P.,2008. Reward versus Zero outcomes, placebo
+// Subjects=13
+2	36	22
+2	46	6
+0	60	14
+-10	12	0
+-16	14	2
+0	-30	34
+6	28	-20
+2	-12	6
+12	-72	10
+20	-90	20
+14	-94	12
+
+// Montag, C.,2011. pleasant > unpleasant song
+// Subjects=33
+3	12	-9
+-18	-30	18
+-6	15	6
+42	15	-9
+-9	-75	12
+-42	0	3
+
+// null, .,2008. expt 1: positive vs. zero cue [AND] expt 2: positive vs. zero cue [AND] expt 2: positive vs. neg cue
+// Subjects=19
+-40	12	58
+60	4	38
+-9	54	36
+38	50	12
+-57	19	6
+-42	2	0
+-1	55	-18
+32	-39	75
+23	-63	67
+51	-70	23
+10	-31	4
+1	-60	44
+-1	-95	20
+-14	-49	6
+-26	-73	-7
+46	-76	-8
+-31	30	-10
+-31	-25	-10
+-3	0	74
+-37	-5	62
+-44	40	30
+-47	5	27
+-53	15	-10
+3	-40	65
+-41	-50	52
+59	-10	30
+50	-15	49
+-3	30	30
+19	-15	24
+-6	25	49
+47	15	37
+-6	-30	8
+-12	10	2
+13	-50	15
+-44	-55	-23
+50	-15	49
+-3	30	30
+19	-15	24
+-6	25	49
+47	15	37
+-6	-30	8
+-12	10	2
+13	-50	15
+-44	-55	-23
+
+// Huettel, S.,2006. reward versus nonreward
+// Subjects=23
+-43	41	-7
+-51	22	-15
+1	7	-8
+58	2	-5
+62	-18	11
+-63	-30	-11
+-33	-38	70
+7	-43	44
+22	-61	-22
+-48	-74	35
+44	-83	-15
+-33	-96	-14
+11	-106	0
+-6	57	1
+21	38	49
+-25	28	51
+45	-41	-16
+-8	-55	30
+36	-89	-12
+23	-101	-3
+
+// Watson, K.,2006. correlation with "funniness" ratings
+// Subjects=16
+-48	-60	20
+56	12	-22
+6	-6	-12
+-2	-56	46
+-60	-14	-22
+-30	-4	-30
+-58	14	-8
+-6	56	36
+-6	-2	12
+-18	6	-4
+2	10	32
+
+// Paulus, M.,2006. High versus low probability prospects [AND] High versus low reward prospects
+// Subjects=16
+17	-78	50
+-1	10	41
+46	5	2
+-40	36	25
+40	-79	17
+-23	-76	49
+-26	-57	62
+-42	10	-2
+-2	1	0
+59	-20	15
+46	-54	40
+-21	25	36
+61	19	-17
+-49	-8	8
+-4	3	19
+0	-20	15
+40	-59	45
+28	33	46
+-58	-51	42
+-37	26	50
+-23	-69	60
+-37	19	-7
+-55	-51	20
+-38	-71	42
+-44	-53	58
+33	5	62
+3	46	-3
+-49	26	-5
+
+// Dreher, J.,2006. presentation of a better > worse gamble:
+P=0.5 $20 > P=0.25 $20
+// Subjects=31
+-46	19	30
+-38	34	0
+42	23	-19
+-46	8	57
+38	11	53
+-11	27	19
+4	15	27
+-4	23	65
+-42	-49	42
+27	-61	42
+-4	-19	-15
+-4	-8	-11
+23	8	-11
+-30	0	-11
+
+// Vartanian, O.,2004. Paintings preference
+// Subjects=12
+6	10	8
+-16	48	0
+-24	-104	2
+24	-104	2
+46	-76	-20
+-46	-76	-20
+32	-71	-31
+-12	-86	-28
+-26	-94	-24
+
+// Van Veen, V.,2004. Positive versus Error Feedback
+// Subjects=14
+14	22	3
+-10	26	4
+22	8	-5
+7	42	-1
+6	-22	48
+33	41	26
+-36	21	26
+59	25	13
+-51	28	5
+42	-38	17
+-35	-47	20
+29	-66	21
+38	-75	3
+27	-66	-2
+13	-64	-2
+
+// Kuhnen, C.,2005. Gain versrus loss following stock choice
+// Subjects=19
+-2	61	-5
+-2	53	-8
+24	39	-17
+13	14	-9
+-13	9	-9
+0	3	34
+0	-30	46
+-2	-32	29
+
+// Holroyd, C.,2004. Correct responses (+10 cents) versus error responses (-10 cents)
+// Subjects=11
+12	11	-3
+5	52	-3
+
+// Linke, J.,2010. Reward versus punishment
+// Subjects=33
+-15	36	51
+-9	33	-9
+6	33	-15
+6	45	-6
+-33	33	-15
+-6	-54	15
+6	-48	18
+-6	-42	33
+-51	-3	-6
+-54	-54	-9
+-45	-78	33
+30	-9	-24
+
+// Ströhle, A.,2008. Anticipation of gain versus no gain
+// Subjects=10
+-18	-25	-8
+4	-17	-2
+-50	-63	14
+-52	-70	6
+
+// Kosson, D.,2006. Post-criterion correct responses with incorrect responses through the task
+// Subjects=19
+-8	31	-14
+17	35	-5
+-20	40	40
+21	-35	32
+-46	-69	50
+-15	-17	25
+16	-10	24
+24	-30	23
+-25	-21	-13
+
+// Singer, T.,2004. Cooperator versus neutral faces
+// Subjects=11
+-39	18	-15
+-18	3	-15
+-24	6	-9
+-45	39	-6
+
+// Knutson, B.,2007. Correlation with preference [AND] Correlation with "price differential" (similar to net value)
+// Subjects=12
+8	33	24
+-10	37	-6
+37	33	11
+-45	37	4
+-4	31	30
+-21	25	51
+29	21	-1
+-27	21	-3
+10	12	-1
+-10	11	0
+7	5	5
+-12	11	10
+-8	2	-1
+-3	-34	31
+30	60	-4
+-13	68	-1
+-4	59	-3
+4	46	-6
+3	34	1
+-9	-47	5
+
+// Knutson, B.,2004. Gain versus non-gain anticipation (placebo) [AND] Noloss versus loss anticipation (placebo) [AND] gain vs non-gain outcome (placebo) [AND] non-loss vs loss outcome (placebo)
+// Subjects=8
+-28	60	-15
+33	22	-5
+-15	13	-5
+17	21	-6
+-7	13	-1
+13	13	-1
+-15	10	9
+21	9	-7
+-8	47	-15
+-3	-56	31
+3	-56	27
+-8	9	-8
+10	18	-6
+10	18	3
+-11	0	-12
+5	2	5
+33	-17	6
+-63	-14	7
+62	-2	4
+
+// Nicolle, A.,2010. Win versus loss
+// Subjects=17
+15	12	-3
+-36	54	6
+3	-72	3
+-27	18	3
+-12	12	0
+
+// Nicolle, A.,2011. Correct versus error responses
+// Subjects=17
+36	-31	64
+57	-22	10
+21	8	-8
+30	-85	25
+12	-16	73
+3	-37	61
+27	2	13
+
+// null, .,2011. Correlation with offer amount [AND] Negative correlation with inequality
+// Subjects=14
+39	-30	45
+33	-33	36
+-9	3	51
+33	-21	21
+42	-24	24
+54	-18	30
+
+// Sharot, T.,2009. Correlation with hedonic reaction [AND] Imagining preferred > nonpreferred vacation destinations [AND] Imagining preferred > nonpreferred vacation destinations
+// Subjects=13
+32	-44	-29
+-26	-12	63
+-18	-34	57
+2	2	10
+-36	-71	-28
+12	-76	-16
+-28	-7	22
+47	24	13
+-14	-57	52
+2	-7	8
+18	-48	-18
+-30	-1	60
+-35	16	65
+-34	32	25
+48	-8	-11
+-24	-65	-18
+-8	30	-12
+-10	25	4
+30	-38	-28
+-12	-72	-22
+-36	-15	3
+34	6	8
+30	31	4
+2	54	-4
+6	26	-13
+-33	-4	60
+44	-65	14
+6	-85	-5
+16	-36	49
+-12	-31	-2
+-22	-45	55
+-56	-19	48
+-30	-29	69
+-38	-18	61
+-26	-73	42
+10	3	-9
+-8	-4	72
+-46	4	-4
+-55	-10	2
+
+// Sharot, T.,2010. Pre-choice Selected versus Rejected [AND] Post-choice Selected versus Rejected
+// Subjects=12
+68	-38	30
+8	-42	-26
+-36	8	0
+-10	-21	36
+21	15	36
+-12	17	35
+-38	-45	-11
+-52	-41	31
+38	6	-2
+-43	2	2
+-24	4	40
+-22	26	-11
+50	-63	10
+-21	-31	38
+42	18	7
+-38	-42	11
+42	-40	9
+42	-6	-10
+32	-28	10
+24	-16	19
+
+// Yoshida, W.,2010. Correlation with payoff
+// Subjects=12
+18	23	-15
+-10	21	-6
+
+// Wittmann, B.,2008. Prediction error response (correlation with standard TD model) [AND] Additional prediction error (correlation due to inclusion of a novelty bonus)
+// Subjects=15
+-28	22	8
+16	12	-4
+-20	14	-10
+-12	-14	6
+-20	-22	-2
+18	-26	-2
+-20	-74	-4
+-32	-82	12
+22	-86	-14
+46	34	18
+-14	30	-18
+32	26	2
+14	20	-10
+36	26	20
+38	20	8
+40	4	22
+50	-22	24
+-38	-40	22
+-6	12	54
+46	6	32
+8	-2	54
+-38	0	26
+12	8	44
+-58	-22	26
+-32	-24	50
+40	-28	42
+-42	-34	44
+-20	-60	20
+-30	-68	-12
+44	-74	2
+-42	-80	14
+8	-12	4
+-18	-20	4
+-6	-26	-6
+
+// Tom, S.,2007. Conjunction analysis: larger > smaller potential gains AND smaller > larger potential losses
+// Subjects=16
+0	6	-2
+-6	40	-8
+-16	67	7
+-20	30	50
+23	36	28
+7	64	18
+9	-38	33
+10	-14	-16
