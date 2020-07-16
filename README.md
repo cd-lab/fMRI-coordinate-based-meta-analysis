@@ -1,5 +1,5 @@
 # fMRI coordinate-based meta-analysis
-MATLAB code used for running fMRI coordinate-based meta-analyses in Bartra, McGuire, & Kable, 2013, NeuroImage, http://doi.org/10.1016/j.neuroimage.2013.02.063
+MATLAB code used for running fMRI coordinate-based meta-analyses in Bartra, McGuire, & Kable, 2013, NeuroImage, available at http://doi.org/10.1016/j.neuroimage.2013.02.063 or https://pubmed.ncbi.nlm.nih.gov/23507394/
 
 Caveat emptor. Use caution and carefully check results and intermediate outputs, especially if
 using settings that differ from the original paper. 
